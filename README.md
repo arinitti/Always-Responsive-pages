@@ -1,4 +1,4 @@
-# Responsive-pages
+# Always Responsive-pages
 
 Web Page Display and Printing For Any Computer and Internet Device
 
