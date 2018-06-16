@@ -32,7 +32,7 @@ First appeared May 2000, updated June 26, 2012, updated May 8, 2018 by alexandra
 
 # Always Responsive-Pages
 
-Web Page Display and Printing For Any Computer and Internet Device
+# Web Page Display and Printing For Any Computer and Internet Device
 There are many devices and browsers on the Internet. Backwards compatibility must be considered. Creating webpages that display on any device and any browser without concern regarding bandwidth is problematic. Another consideration is with a new version of a browser the webpage may crumble and the code needs to be rewritten. Flexbox cannot be trusted for all browsers.
 When using this code
 • Legacy browsers are not an issue.
