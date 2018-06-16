@@ -30,4 +30,6 @@ Accessibility - Users can choose any font size and the page will adjust.
 
 First appeared May 2000, updated June 26, 2012, updated May 8, 2018 by alexandra andrews arinittiATlmi.net
 
-#**Always Responsive Web Page Display and Printing For Any Computer and Internet Device**
+
+# Always Responsive-pages
+**Web Page Display and Printing For Any Computer and Internet Device**
