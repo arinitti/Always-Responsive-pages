@@ -29,3 +29,5 @@ This code will allow  - any user, any device, any bandwidth, to print pages stra
 Accessibility - Users can choose any font size and the page will adjust.
 
 First appeared May 2000, updated June 26, 2012, updated May 8, 2018 by alexandra andrews arinittiATlmi.net
+
+# Always Responsive-Pages
