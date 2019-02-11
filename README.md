@@ -72,4 +72,5 @@ Both options will work on all versions of HTML. With these coding options webpag
 
 Some users with visibility and/or accessibility issues may need to enlarge the text to a preferred size while reading on the browser. Users can choose any font size (unless constrained by CSS), and the page will adjust.
 
-First appeared May 2000, updated June 26, 2012, updated June 15, 2018 by alexandra andrews arinittiATlmi.net, panaceaATpanaceavera.com
+The apache 2.0  was filed May 2000.
+First added to github June 15, 2018, updated February 11, 2019 by Alexandra Andrews 
