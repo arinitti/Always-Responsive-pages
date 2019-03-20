@@ -79,5 +79,4 @@ Centered and percentage table options keeps the text tidy, when users enlarge th
 When using the <em>Always Adjustable Pages</em> code, avoid large graphics. They may not display on all devices, and may have problems downloading because of slow bandwidth. Optimal is to use multiple small images. Follow this advice with  pdfs. Instead of one huge PDF, use several pdfs. Do not forget for section508.gov you need to offer a html or text version for your webpage PDFs. Checking your site with the Lynx browser is advised.
 
 The Apache 2.0 was filed May 2000. First added to GitHub June 15, 2018, updated March 19, 2019, by Alexandra Andrews
-cancerlynx.com/pageadjust.html
-
+arinitti@protonmail.com cancerlynx.com/pageadjust.html
