@@ -73,9 +73,11 @@ Both options will work on all versions of HTML. With these coding options webpag
 
 **Accessibility**
 
-Users with visibility and/or accessibility issues may need to enlarge the text to a preferred size while reading on the browser. The option of increasing or decreasing the size of the font relative to the default size, as in <font size="+1(num)"> or <font size="-1(num)"> , where "num" is a number. This allows the fonts to resize according to the page.
-
 Users can choose any font size (unless constrained by CSS or text boxes), and the page will adjust.
+Centered and percentage table options keeps the text tidy, when users enlarge the text within. Designers may want to drop back to Html 4.01.
 
-The apache 2.0  was filed May 2000.
-First added to github June 15, 2018, updated March 19, 2019 by Alexandra Andrews 
+When using the <em>Always Adjustable Pages</em> code, avoid large graphics. They may not display on all devices, and may have problems downloading because of slow bandwidth. Optimal is to use multiple small images. Follow this advice with  pdfs. Instead of one huge PDF, use several pdfs. Do not forget for section508.gov you need to offer a html or text version for your webpage PDFs. Checking your site with the Lynx browser is advised.
+
+The Apache 2.0 was filed May 2000. First added to GitHub June 15, 2018, updated March 19, 2019, by Alexandra Andrews
+cancerlynx.com/pageadjust.html
+
