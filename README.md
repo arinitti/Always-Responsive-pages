@@ -1,6 +1,6 @@
 
 # Always Responsive-pages
-**Web Page Display and Printing For Any Computer and Internet Device**
+**Web Page Display and Printing For Any Computer and Internet Device World Wide**
 
 There are many devices and browsers on the Internet. Backwards compatibility must be considered. Creating webpages that display on any device and any browser without concern regarding bandwidth is problematic. Another consideration is with a new version of a browser, the webpage may crumble and the code needs to be rewritten. Flexbox cannot be trusted for all browsers.
 
